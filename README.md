@@ -4,7 +4,7 @@
 
 用 PHP 與 MySQL 學習後端基礎。
 
-![image](https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/php-blog.gif))
+![image](https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/php-blog.gif)
 
 
 ### Blog 結構
