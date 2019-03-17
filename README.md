@@ -1,7 +1,5 @@
 # enter3017sky PHP Blog
 
-> http://enter3017sky.tw/index.php
-
 用 PHP 與 MySQL 學習後端基礎。
 
 ![image](https://raw.githubusercontent.com/enter3017sky/mentor-program-2nd-blog/master/picture/php-blog.gif)
