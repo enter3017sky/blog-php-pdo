@@ -1,0 +1,4 @@
+.DS_Store
+configure.*
+node_modules
+conn.*
