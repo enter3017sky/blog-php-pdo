@@ -1,8 +1,8 @@
-# enter3017sky Express Blog
+# enter3017sky PHP Blog
 
 用 PHP 與 MySQL 學習後端基礎。
 
-![Imgur](https://i.imgur.com/YqjYSWm.gif)
+![Imgur](https://i.imgur.com/ZGFcVJI.gif)
 
 ### Blog 結構
 
